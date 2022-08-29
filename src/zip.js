@@ -8,9 +8,13 @@ export default {
             const zip = zipcodes[code];
             const provinceID = zip[0];
             const cityID     = zip[1];
+
+            const province = provinces[provinceID];
+            const city     = cities[provinceID][cityID];
             return {
-                province: provinces[provinceID],
-                city    : cities[provinceID][cityID]
+                province,
+                city   : city[0],
+                zipCode: city[1]
             }
         }
         else
