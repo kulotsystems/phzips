@@ -1,6 +1,10 @@
 ## phzipsearch
 Search for City, Province using Zip Code in the Philippines.
 
+### Preview
+Access <https://kulotsystems.github.io/phzipsearch>
+
+### Setup
 #### Install dependencies
 ```sh
 npm install
