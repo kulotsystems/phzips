@@ -1,4 +1,4 @@
-import zip from './zip.js';
+import zip from './zip/index.js';
 
 const formSearch = document.querySelector('#formSearch');
 const result     = document.querySelector('#result');
