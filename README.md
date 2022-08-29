@@ -1,4 +1,4 @@
-## phzipsearch
+## phzips
 Search for City, Province using Zip Code in the Philippines.
 
 
@@ -6,8 +6,22 @@ Search for City, Province using Zip Code in the Philippines.
 |---------------------|-----------------------------|
 | [/src/zip](src/zip) | [/src/main.js](src/main.js) |
 
-### Preview
-Access <https://kulotsystems.github.io/phzipsearch>
+### Installation
+```shell
+npm install phpzips
+```
+
+### Usage
+```javascript
+import phzips from 'phzips';
+const found = phzips.search('4434');
+
+console.log(found);
+// { city: "Nabua", province: "Camarines Sur", zipCode: "4434" }
+```
+
+### Demo
+Access <https://kulotsystems.github.io/phzips>
 
 ### Dev Setup
 #### Install dependencies

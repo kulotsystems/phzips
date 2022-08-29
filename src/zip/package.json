@@ -1,0 +1,27 @@
+{
+  "name": "phzips",
+  "version": "1.0.2",
+  "description": "Search for City, Province using Zip Code in the Philippines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulotsystems/phzipsearch.git"
+  },
+  "keywords": [
+    "philippines",
+    "location",
+    "province",
+    "city",
+    "zipcode",
+    "zip"
+  ],
+  "author": "Arvic S. Babol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kulotsystems/phzips/issues"
+  },
+  "homepage": "https://github.com/kulotsystems/phzips/tree/master/src/zip#readme"
+}
