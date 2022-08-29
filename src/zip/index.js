@@ -4,7 +4,8 @@ import zipcodes  from './data/zipcodes.json';
 
 export default {
     search(code) {
-        if(zipcodes[code]) {
+        code = code.trim();
+        if(zipcodes[code] && code !== '') {
             const zip = zipcodes[code];
             const provinceID = zip[0];
             const cityID     = zip[1];
