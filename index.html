@@ -3,16 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <title>phzipsearch</title>
+    <link rel="stylesheet" type="text/css" href="/css/bulma.min.css">
 </head>
 <body>
-    <form id="formSearch">
-        <label for="zipCode">Zip Code</label>
-        <input type="text" id="zipCode">
-        <button type="submit">Search</button>
-    </form>
-    <pre id="result">
+    
+    <div class="container">
+        <div class="my-5" >
+            <h4 class="title is-4" >PHZipSearch</h4>
+            <div class="subtitle" >Seaching something???</div>
+        </div>
 
-    </pre>
+        <form id="formSearch" class="mb-3" >
+            <label class="label" for="zipCode">Zip Code</label>
+            <div class="field has-addons">
+                <div class="control is-expanded">
+                    <input class="input" type="text" id="zipCode">
+                </div>
+                <div class="control">
+                    <button class="button is-primary" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+
+        <small>Result</small>
+        <pre id="result">
+
+        </pre>
+    </div>
+
     <script src="/src/main.js" type="module"></script>
 </body>
 </html>
