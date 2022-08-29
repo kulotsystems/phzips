@@ -17,7 +17,6 @@ export default {
                 zipCode: city[1]
             }
         }
-        else
-            return false;
+        return false;
     }
 }
