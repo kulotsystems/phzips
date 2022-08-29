@@ -6,17 +6,16 @@
     <link rel="stylesheet" type="text/css" href="/css/bulma.min.css">
 </head>
 <body>
-    
-    <div class="container">
+
+    <div class="container px-5">
         <div class="my-5" >
             <h4 class="title is-4" >PHZipSearch</h4>
-            <div class="subtitle" >Seaching something???</div>
         </div>
 
         <form id="formSearch" class="mb-3" >
             <label class="label" for="zipCode">Zip Code</label>
             <div class="field has-addons">
-                <div class="control is-expanded">
+                <div class="control">
                     <input class="input" type="text" id="zipCode">
                 </div>
                 <div class="control">
@@ -24,11 +23,7 @@
                 </div>
             </div>
         </form>
-
-        <small>Result</small>
-        <pre id="result">
-
-        </pre>
+        <h6 id="result" class="title is-6 pt-2"></h6>
     </div>
 
     <script src="/src/main.js" type="module"></script>
