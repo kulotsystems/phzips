@@ -20,6 +20,17 @@ console.log(found);
 // { city: "Nabua", province: "Camarines Sur", zipCode: "4434" }
 ```
 
+### CDN
+```html
+<script src="https://www.kulotsystems.tech/cdn/phzips-1.0.4.min.js"></script>
+<script>
+    const found = phzips.default.search('4434');
+
+    console.log(found);
+    // { city: "Nabua", province: "Camarines Sur", zipCode: "4434" }
+</script>
+```
+
 ### Demo
 Access <https://kulotsystems.github.io/phzips>
 
