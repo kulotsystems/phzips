@@ -8,7 +8,7 @@ Search for City, Province using Zip Code in the Philippines.
 
 ### Installation
 ```shell
-npm install phpzips
+npm install phzips
 ```
 
 ### Usage
