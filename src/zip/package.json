@@ -1,6 +1,6 @@
 {
   "name": "phzips",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Search for City, Province using Zip Code in the Philippines.",
   "main": "index.js",
   "scripts": {
