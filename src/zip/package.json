@@ -1,6 +1,6 @@
 {
   "name": "phzips",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Search for location using Zip Code in the Philippines.",
   "main": "index.js",
   "scripts": {
