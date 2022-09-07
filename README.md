@@ -1,5 +1,5 @@
 ## phzips
-Search for City, Province using Zip Code in the Philippines.
+Search for location using Zip Code in the Philippines.
 
 
 | Source              | Demo                        |
@@ -17,17 +17,17 @@ import phzips from 'phzips';
 const found = phzips.search('4434');
 
 console.log(found);
-// { city: "Nabua", province: "Camarines Sur", zipCode: "4434" }
+// { type: "Province", area: "Camarines Sur", location: "Nabua", zipCode: "4434", tag: null }
 ```
 
 ### CDN
 ```html
-<script src="https://www.kulotsystems.tech/cdn/phzips-1.0.4.min.js"></script>
+<script src="https://www.kulotsystems.tech/cdn/phzips-2.0.0.min.js"></script>
 <script>
     const found = phzips.default.search('4434');
 
     console.log(found);
-    // { city: "Nabua", province: "Camarines Sur", zipCode: "4434" }
+    // { type: "Province", area: "Camarines Sur", location: "Nabua", zipCode: "4434", tag: null }
 </script>
 ```
 
