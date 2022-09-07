@@ -1,0 +1,2622 @@
+{
+    "1": {
+        "l": {
+            "1": [
+                "Grace Park West",
+                "1406",
+                "West Caloocan"
+            ],
+            "2": [
+                "University Hills",
+                "1407",
+                "West Caloocan"
+            ],
+            "3": [
+                "Sangandaan",
+                "1408",
+                "West Caloocan"
+            ],
+            "4": [
+                "Kaunlaran Village",
+                "1409",
+                "West Caloocan"
+            ],
+            "5": [
+                "Maypajo",
+                "1410",
+                "West Caloocan"
+            ],
+            "6": [
+                "Fish Market",
+                "1411",
+                "West Caloocan"
+            ],
+            "7": [
+                "Isla de Cocomo",
+                "1412",
+                "West Caloocan"
+            ],
+            "8": [
+                "Kapitbayahan",
+                "1413",
+                "West Caloocan"
+            ],
+            "9": [
+                "Bagong Silang",
+                "1428",
+                "North Caloocan"
+            ],
+            "10": [
+                "Cefels Park Subdivision",
+                "1429",
+                "North Caloocan"
+            ]
+        }
+    },
+    "2": {
+        "l": {
+            "1": [
+                "Las Piñas Central Post Office",
+                "1740"
+            ],
+            "2": [
+                "Greymarville Subdivision",
+                "1741"
+            ],
+            "3": [
+                "Pulang Lupa, Zapote",
+                "1742"
+            ],
+            "4": [
+                "Cut-cut",
+                "1743"
+            ],
+            "5": [
+                "Manuyo",
+                "1744"
+            ],
+            "6": [
+                "Gatchalian Subdivision",
+                "1745"
+            ],
+            "7": [
+                "Verdant Acres Subdivision",
+                "1746"
+            ],
+            "8": [
+                "Moonwalk Subdivision and Talon",
+                "1747"
+            ],
+            "9": [
+                "Manila Doctors Village",
+                "1748"
+            ],
+            "10": [
+                "Angela Village",
+                "1749"
+            ],
+            "11": [
+                "Almanza",
+                "1750"
+            ],
+            "12": [
+                "T.S. Cruz Subdivision",
+                "1751"
+            ],
+            "13": [
+                "Soldiers Hills Subdivision",
+                "1752"
+            ]
+        }
+    },
+    "3": {
+        "l": {
+            "1": [
+                "Kaunlaran Village",
+                "1409"
+            ],
+            "2": [
+                "Malabon",
+                "1470"
+            ],
+            "3": [
+                "Flores",
+                "1471"
+            ],
+            "4": [
+                "Longos",
+                "1472"
+            ],
+            "5": [
+                "Tonsuya",
+                "1473"
+            ],
+            "6": [
+                "Acacia",
+                "1474"
+            ],
+            "7": [
+                "Potrero",
+                "1475"
+            ],
+            "8": [
+                "Araneta Subdivision",
+                "1476"
+            ],
+            "9": [
+                "Maysilo",
+                "1477"
+            ],
+            "10": [
+                "Santolan",
+                "1478"
+            ],
+            "11": [
+                "Muzon",
+                "1479"
+            ],
+            "12": [
+                "Dampalit",
+                "1480"
+            ],
+            "13": [
+                "Tinajeros",
+                "1470"
+            ]
+        }
+    },
+    "4": {
+        "l": {
+            "1": [
+                "Makati Central Post Office",
+                "1200"
+            ],
+            "2": [
+                "Fort Bonifacio",
+                "1201"
+            ],
+            "3": [
+                "Fort Bonifacio Naval Station",
+                "1202"
+            ],
+            "4": [
+                "San Antonio Village Makati",
+                "1203"
+            ],
+            "5": [
+                "La Paz, Singkamas, and Tejeros",
+                "1204"
+            ],
+            "6": [
+                "Santa Cruz Makati",
+                "1205"
+            ],
+            "7": [
+                "Kasilawan",
+                "1206"
+            ],
+            "8": [
+                "Carmona and Olympia Makati",
+                "1207"
+            ],
+            "9": [
+                "Valenzuela",
+                "1208"
+            ],
+            "10": [
+                "Bel-Air",
+                "1209"
+            ],
+            "11": [
+                "Poblacion",
+                "1210"
+            ],
+            "12": [
+                "Guadalupe Viejo",
+                "1211"
+            ],
+            "13": [
+                "Guadalupe Nuevo",
+                "1212"
+            ],
+            "14": [
+                "Pinagkaisahan - Pitogo",
+                "1213"
+            ],
+            "15": [
+                "Cembo",
+                "1214"
+            ],
+            "16": [
+                "West Rembo",
+                "1215"
+            ],
+            "17": [
+                "East Rembo and Malapad na Bato Makati",
+                "1216"
+            ],
+            "18": [
+                "Comembo",
+                "1217"
+            ],
+            "19": [
+                "Pembo",
+                "1218"
+            ],
+            "20": [
+                "Forbes Park North makati",
+                "1219"
+            ],
+            "21": [
+                "Forbes Park South",
+                "1220"
+            ],
+            "22": [
+                "Dasmariñas Village North",
+                "1221"
+            ],
+            "23": [
+                "Dasmariñas Village South",
+                "1222"
+            ],
+            "24": [
+                "San Lorenzo Village Makati",
+                "1223"
+            ],
+            "25": [
+                "Makati Commercial Center",
+                "1224"
+            ],
+            "26": [
+                "Urdaneta Village",
+                "1225"
+            ],
+            "27": [
+                "Ayala Avenue-Paseo de Roxas Makati",
+                "1226"
+            ],
+            "28": [
+                "Salcedo Village",
+                "1227"
+            ],
+            "29": [
+                "Greenbelt",
+                "1228"
+            ],
+            "30": [
+                "Legaspi Village",
+                "1229"
+            ],
+            "31": [
+                "Pio del Pilar Makati",
+                "1230"
+            ],
+            "32": [
+                "Pasong Tamo and Ecology Village Makati",
+                "1231"
+            ],
+            "33": [
+                "Magallanes Village",
+                "1232"
+            ],
+            "34": [
+                "Bangkal",
+                "1233"
+            ],
+            "35": [
+                "San Isidro",
+                "1234"
+            ],
+            "36": [
+                "Palanan",
+                "1235"
+            ]
+        },
+        "b": {
+            "1": [
+                "Plain-Truth",
+                "0700"
+            ],
+            "2": [
+                "Colgate Palmolive Philippines",
+                "0701"
+            ],
+            "3": [
+                "Citibank",
+                "0702"
+            ],
+            "4": [
+                "Sarmiento Enterprises Makati",
+                "0703"
+            ],
+            "5": [
+                "Producers Bank",
+                "0704"
+            ],
+            "6": [
+                "Union Ajinomoto",
+                "0705"
+            ],
+            "7": [
+                "Faith Embassy",
+                "0706"
+            ],
+            "8": [
+                "Canadian Embassy",
+                "0707"
+            ],
+            "9": [
+                "Philippine National Oil Company",
+                "0708"
+            ],
+            "10": [
+                "A-Z Direct Marketing",
+                "0709"
+            ],
+            "11": [
+                "American Express",
+                "0710"
+            ],
+            "12": [
+                "Land Bank of the Philippines",
+                "0711"
+            ],
+            "13": [
+                "Prudential Bank",
+                "0712"
+            ],
+            "14": [
+                "BPI Family Savings Bank",
+                "0713"
+            ],
+            "15": [
+                "Philippine Manila Mission",
+                "0714"
+            ],
+            "16": [
+                "Marcopper Mining Corporation",
+                "0715"
+            ],
+            "17": [
+                "Allied Bank",
+                "0716"
+            ],
+            "18": [
+                "Diners Club",
+                "0717"
+            ],
+            "19": [
+                "International Center for Aquatic Resources",
+                "0718"
+            ],
+            "20": [
+                "Security Bank",
+                "0719"
+            ],
+            "21": [
+                "Bank of the Philippine Islands",
+                "0720"
+            ],
+            "22": [
+                "Philippine Long Distance Telephone Company",
+                "0721"
+            ],
+            "23": [
+                "World Executive Digest",
+                "0722"
+            ],
+            "24": [
+                "Japanese Embassy",
+                "0723"
+            ],
+            "25": [
+                "Sun Life Financial",
+                "0724"
+            ],
+            "26": [
+                "Insular Life Assurance Company",
+                "0725"
+            ],
+            "27": [
+                "Equitable PCI Bank",
+                "0726"
+            ],
+            "28": [
+                "Rizal Commercial Banking Corporation (RCBC)",
+                "0727"
+            ],
+            "29": [
+                "United Coconut Planters Bank (UCPB)",
+                "0728"
+            ],
+            "30": [
+                "Zuellig Pharma",
+                "0730"
+            ],
+            "31": [
+                "BCD Direct Marketing",
+                "0731"
+            ],
+            "32": [
+                "Export and Industry Bank",
+                "0732"
+            ],
+            "33": [
+                "Sycip, Gorres and Velayo",
+                "0740"
+            ],
+            "34": [
+                "Philippine Airlines",
+                "0750"
+            ],
+            "35": [
+                "Pilipinas Shell",
+                "0760"
+            ],
+            "36": [
+                "ACCRA Law Offices",
+                "0770"
+            ],
+            "37": [
+                "Mead Johnson Philippines",
+                "0780"
+            ],
+            "38": [
+                "Directories Philippines Corporation Makati",
+                "0788"
+            ],
+            "39": [
+                "Atlantic, Gulf and Pacific",
+                "0790"
+            ]
+        },
+        "p": {
+            "1": [
+                "Makati CPO-PO Box# 1000 to 1099",
+                "1250"
+            ],
+            "2": [
+                "Makati CPO-PO Box# 1100 to 1199",
+                "1251"
+            ],
+            "3": [
+                "Makati CPO-PO Box# 1200 to 1299",
+                "1252"
+            ],
+            "4": [
+                "Makati CPO-PO Box# 1300 to 1399",
+                "1253"
+            ],
+            "5": [
+                "Makati CPO-PO Box# 1400 to 1499",
+                "1254"
+            ],
+            "6": [
+                "Makati CPO-PO Box# 1500 to 1599",
+                "1255"
+            ],
+            "7": [
+                "Makati CPO-PO Box# 1600 to 1699",
+                "1256"
+            ],
+            "8": [
+                "Makati CPO-PO Box# 1700 to 1799",
+                "1257"
+            ],
+            "9": [
+                "Makati CPO-PO Box# 1800 to 1899",
+                "1258"
+            ],
+            "10": [
+                "Makati CPO-PO Box# 1900 to 1999",
+                "1259"
+            ],
+            "11": [
+                "Makati CPO-PO Box# 2000 to 2099",
+                "1260"
+            ],
+            "12": [
+                "Makati CPO-PO Box# 2100 to 2199",
+                "1261"
+            ],
+            "13": [
+                "Makati CPO-PO Box# 2200 to 2299",
+                "1262"
+            ],
+            "14": [
+                "Makati CPO-PO Box# 2300 to 2399",
+                "1263"
+            ],
+            "15": [
+                "Makati CPO-PO Box# 2400 to 2499",
+                "1264"
+            ],
+            "16": [
+                "Makati CPO-PO Box# 2500 to 2599",
+                "1265"
+            ],
+            "17": [
+                "Makati CPO-PO Box# 2600 to 2699",
+                "1266"
+            ],
+            "18": [
+                "Makati CPO-PO Box# 2700 to 2799",
+                "1267"
+            ],
+            "19": [
+                "Makati CPO-PO Box# 2800 to 2899",
+                "1268"
+            ],
+            "20": [
+                "Makati CPO-PO Box# 2900 to 2999",
+                "1269"
+            ],
+            "21": [
+                "Makati CPO-PO Box# 3000 to 3099",
+                "1270"
+            ],
+            "22": [
+                "Makati CPO-PO Box# 3100 to 3199",
+                "1271"
+            ],
+            "23": [
+                "Makati CPO-PO Box# 3200 to 3299",
+                "1272"
+            ],
+            "24": [
+                "Makati CPO-PO Box# 3300 to 3399",
+                "1273"
+            ],
+            "25": [
+                "Makati CPO-PO Box# 3400 to 3499",
+                "1274"
+            ],
+            "26": [
+                "Makati CPO-PO Box# 3500 to 3599",
+                "1275"
+            ],
+            "27": [
+                "Makati CPO-PO Box# 3600 to 3699",
+                "1276"
+            ],
+            "28": [
+                "Makati CPO-PO Box# 3700 to 3799",
+                "1277"
+            ],
+            "29": [
+                "Makati CPO-PO Box# 3800 to 3899",
+                "1278"
+            ],
+            "30": [
+                "Makati CPO-PO Box# 3900 to 3999",
+                "1279"
+            ],
+            "31": [
+                "Makati CPO-PO Box# 4000 to 4099",
+                "1280"
+            ],
+            "32": [
+                "Makati CPO-PO Box# 4100 to 4199",
+                "1281"
+            ],
+            "33": [
+                "Makati CPO-PO Box# 4200 to 4299",
+                "1282"
+            ],
+            "34": [
+                "Makati CPO-PO Box# 4300 to 4399",
+                "1283"
+            ],
+            "35": [
+                "Makati CPO-PO Box# 4400 to 4499",
+                "1284"
+            ],
+            "36": [
+                "Makati CPO-PO Box# 4500 to 4599",
+                "1285"
+            ],
+            "37": [
+                "Makati CPO-PO Box# 4600 to 4699",
+                "1286"
+            ],
+            "38": [
+                "Makati CPO-PO Box# 4700 to 4799",
+                "1287"
+            ],
+            "39": [
+                "Makati CPO-PO Box# 4800 to 4899",
+                "1288"
+            ],
+            "40": [
+                "Makati CPO-PO Box# 4900 to 4999",
+                "1289"
+            ],
+            "41": [
+                "Makati CPO-PO Box# 5000 to 5099",
+                "1290"
+            ],
+            "42": [
+                "Makati CPO-PO Box# 5100 to 5199",
+                "1291"
+            ],
+            "43": [
+                "Makati CPO-PO Box# 5200 to 5299",
+                "1292"
+            ],
+            "44": [
+                "Makati CPO-PO Box# 5300 to 5399",
+                "1293"
+            ],
+            "45": [
+                "Makati CPO-PO Box# 5400 to 5499",
+                "1294"
+            ],
+            "46": [
+                "Makati CPO-PO Box# 5500 to 5599",
+                "1295"
+            ],
+            "47": [
+                "Makati CPO-PO Box# 5600 to 5699",
+                "1296"
+            ],
+            "48": [
+                "Makati CPO-PO Box# 5700 to 5799",
+                "1297"
+            ],
+            "49": [
+                "Makati CPO-PO Box# 5800 to 5899",
+                "1298"
+            ],
+            "50": [
+                "Makati CPO-PO Box# 5900 to 5999",
+                "1299"
+            ]
+        }
+    },
+    "5": {
+        "l": {
+            "1": [
+                "Mandaluyong Central Post Office",
+                "1550"
+            ],
+            "2": [
+                "Vergara",
+                "1551"
+            ],
+            "3": [
+                "Shaw Boulevard",
+                "1552"
+            ],
+            "4": [
+                "National Center for Mental Health",
+                "1553"
+            ],
+            "5": [
+                "East EDSA",
+                "1554"
+            ],
+            "6": [
+                "Wack Wack",
+                "1555"
+            ],
+            "7": [
+                "Greenhills South",
+                "1556"
+            ]
+        }
+    },
+    "6": {
+        "l": {
+            "1": [
+                "Manila Central Post Office",
+                "1000"
+            ],
+            "2": [
+                "Quiapo",
+                "1001"
+            ],
+            "3": [
+                "Intramuros",
+                "1002"
+            ],
+            "4": [
+                "Santa Cruz South",
+                "1003"
+            ],
+            "5": [
+                "Malate",
+                "1004"
+            ],
+            "6": [
+                "San Miguel",
+                "1005"
+            ],
+            "7": [
+                "Binondo",
+                "1006"
+            ],
+            "8": [
+                "Paco",
+                "1007"
+            ],
+            "9": [
+                "Sampaloc East",
+                "1008"
+            ],
+            "10": [
+                "Santa Ana Manila",
+                "1009"
+            ],
+            "11": [
+                "San Nicolas",
+                "1010"
+            ],
+            "12": [
+                "Pandacan",
+                "1011"
+            ],
+            "13": [
+                "Tondo South",
+                "1012"
+            ],
+            "14": [
+                "Tondo North",
+                "1013"
+            ],
+            "15": [
+                "Santa Cruz North",
+                "1014"
+            ],
+            "16": [
+                "Sampaloc West",
+                "1015"
+            ],
+            "17": [
+                "Santa Mesa",
+                "1016"
+            ],
+            "18": [
+                "San Andres",
+                "1017"
+            ],
+            "19": [
+                "Port Area South",
+                "1018"
+            ]
+        },
+        "b": {
+            "1": [
+                "Manila Bulletin",
+                "0900"
+            ],
+            "2": [
+                "Adventist University of the Philippines",
+                "0901"
+            ],
+            "3": [
+                "Far East Broadcasting Corporation",
+                "0902"
+            ],
+            "4": [
+                "Manila Hilton",
+                "0903"
+            ],
+            "5": [
+                "Midland Hotel",
+                "0904"
+            ],
+            "6": [
+                "The Philippine Star",
+                "0905"
+            ],
+            "7": [
+                "Manila Medical Center",
+                "0906"
+            ],
+            "8": [
+                "San Miguel Corporation",
+                "0907"
+            ],
+            "9": [
+                "Pan-Filipino Shipping",
+                "0908"
+            ],
+            "10": [
+                "Summer Institute of Linguistics",
+                "0909"
+            ],
+            "11": [
+                "Department of Labor and Employment",
+                "0910"
+            ],
+            "12": [
+                "National Statistics Office",
+                "0911"
+            ],
+            "13": [
+                "Bureau of Plant Industry",
+                "0912"
+            ],
+            "14": [
+                "Manila Hotel",
+                "0913"
+            ],
+            "15": [
+                "Philippine Refining Company and Unilever Philippines",
+                "0914"
+            ],
+            "16": [
+                "International Correspondence Institute",
+                "0915"
+            ],
+            "17": [
+                "Radio Veritas",
+                "0916"
+            ],
+            "18": [
+                "Ateneo de Manila University",
+                "0917"
+            ],
+            "19": [
+                "Fil-Japan Shipping Company",
+                "0918"
+            ],
+            "20": [
+                "Manila Police District",
+                "0919"
+            ],
+            "21": [
+                "Sunbursts Publications",
+                "0920"
+            ],
+            "22": [
+                "Philippine Plaza Hotel",
+                "0921"
+            ],
+            "23": [
+                "De La Salle University",
+                "0922"
+            ],
+            "24": [
+                "Don Stewart Evangelistic Association",
+                "0923"
+            ],
+            "25": [
+                "World Map",
+                "0924"
+            ],
+            "26": [
+                "Chinabank",
+                "0925"
+            ],
+            "27": [
+                "Caltex Philippines",
+                "0926"
+            ],
+            "28": [
+                "Philippine Veterans Affairs Office",
+                "0927"
+            ],
+            "29": [
+                "Philippine Campus Crusade",
+                "0928"
+            ],
+            "30": [
+                "United States Embassy",
+                "0930"
+            ],
+            "31": [
+                "Philippine National Bank",
+                "0940"
+            ],
+            "32": [
+                "Manila Midtown Hotel",
+                "0950"
+            ],
+            "33": [
+                "International Rice Research Institute",
+                "0960"
+            ],
+            "34": [
+                "Department of Justice",
+                "0970"
+            ],
+            "35": [
+                "Asian Development Bank",
+                "0980"
+            ],
+            "36": [
+                "Philamlife",
+                "0990"
+            ]
+        },
+        "p": {
+            "1": [
+                "Manila CPO-PO Box# 1000 to 1099",
+                "1050"
+            ],
+            "2": [
+                "Manila CPO-PO Box# 1100 to 1199",
+                "1051"
+            ],
+            "3": [
+                "Manila CPO-PO Box# 1200 to 1299",
+                "1052"
+            ],
+            "4": [
+                "Manila CPO-PO Box# 1300 to 1399",
+                "1053"
+            ],
+            "5": [
+                "Manila CPO-PO Box# 1400 to 1499",
+                "1054"
+            ],
+            "6": [
+                "Manila CPO-PO Box# 1500 to 1599",
+                "1055"
+            ],
+            "7": [
+                "Manila CPO-PO Box# 1600 to 1699",
+                "1056"
+            ],
+            "8": [
+                "Manila CPO-PO Box# 1700 to 1799",
+                "1057"
+            ],
+            "9": [
+                "Manila CPO-PO Box# 1800 to 1899",
+                "1058"
+            ],
+            "10": [
+                "Manila CPO-PO Box# 1900 to 1999",
+                "1059"
+            ],
+            "11": [
+                "Manila CPO-PO Box# 2000 to 2099",
+                "1060"
+            ],
+            "12": [
+                "Manila CPO-PO Box# 2100 to 2199",
+                "1061"
+            ],
+            "13": [
+                "Manila CPO-PO Box# 2200 to 2299",
+                "1062"
+            ],
+            "14": [
+                "Manila CPO-PO Box# 2300 to 2399",
+                "1063"
+            ],
+            "15": [
+                "Manila CPO-PO Box# 2400 to 2499",
+                "1064"
+            ],
+            "16": [
+                "Manila CPO-PO Box# 2500 to 2599",
+                "1065"
+            ],
+            "17": [
+                "Manila CPO-PO Box# 2600 to 2699",
+                "1066"
+            ],
+            "18": [
+                "Manila CPO-PO Box# 2700 to 2799",
+                "1067"
+            ],
+            "19": [
+                "Manila CPO-PO Box# 2800 to 2899",
+                "1068"
+            ],
+            "20": [
+                "Manila CPO-PO Box# 2900 to 2999",
+                "1069"
+            ],
+            "21": [
+                "Manila CPO-PO Box# 3000 to 3099",
+                "1070"
+            ],
+            "22": [
+                "Manila CPO-PO Box# 3100 to 3199",
+                "1071"
+            ],
+            "23": [
+                "Manila CPO-PO Box# 3200 to 3299",
+                "1072"
+            ],
+            "24": [
+                "Manila CPO-PO Box# 3300 to 3399",
+                "1073"
+            ],
+            "25": [
+                "Manila CPO-PO Box# 3400 to 3499",
+                "1074"
+            ],
+            "26": [
+                "Manila CPO-PO Box# 3500 to 3599",
+                "1075"
+            ],
+            "27": [
+                "Manila CPO-PO Box# 3600 to 3699",
+                "1076"
+            ],
+            "28": [
+                "Manila CPO-PO Box# 3700 to 3799",
+                "1077"
+            ],
+            "29": [
+                "Manila CPO-PO Box# 3800 to 3899",
+                "1078"
+            ],
+            "30": [
+                "Manila CPO-PO Box# 3900 to 3999",
+                "1079"
+            ],
+            "31": [
+                "Manila CPO-PO Box# 4000 to 4099",
+                "1080"
+            ],
+            "32": [
+                "Manila CPO-PO Box# 4100 to 4199",
+                "1081"
+            ],
+            "33": [
+                "Manila CPO-PO Box# 4200 to 4299",
+                "1082"
+            ],
+            "34": [
+                "Manila CPO-PO Box# 4300 to 4399",
+                "1083"
+            ],
+            "35": [
+                "Manila CPO-PO Box# 4400 to 4499",
+                "1084"
+            ],
+            "36": [
+                "Manila CPO-PO Box# 4500 to 4599",
+                "1085"
+            ],
+            "37": [
+                "Manila CPO-PO Box# 4600 to 4699",
+                "1086"
+            ],
+            "38": [
+                "Manila CPO-PO Box# 4700 to 4799",
+                "1087"
+            ],
+            "39": [
+                "Manila CPO-PO Box# 4800 to 4899",
+                "1088"
+            ],
+            "40": [
+                "Manila CPO-PO Box# 4900 to 4999",
+                "1089"
+            ],
+            "41": [
+                "Manila CPO-PO Box# 5000 to 5099",
+                "1090"
+            ],
+            "42": [
+                "Manila CPO-PO Box# 5100 to 5199",
+                "1091"
+            ],
+            "43": [
+                "Manila CPO-PO Box# 5200 to 5299",
+                "1092"
+            ],
+            "44": [
+                "Manila CPO-PO Box# 5300 to 5399",
+                "1093"
+            ],
+            "45": [
+                "Manila CPO-PO Box# 5400 to 5499",
+                "1094"
+            ],
+            "46": [
+                "Manila CPO-PO Box# 5500 to 5599",
+                "1095"
+            ],
+            "47": [
+                "Manila CPO-PO Box# 5600 to 5699",
+                "1096"
+            ]
+        }
+    },
+    "7": {
+        "l": {
+            "1": [
+                "Marikina Central Post Office",
+                "1800"
+            ],
+            "2": [
+                "San Roque-Calumpang",
+                "1801"
+            ],
+            "3": [
+                "Industrial Valley",
+                "1802"
+            ],
+            "4": [
+                "Barangka and Tañong",
+                "1803"
+            ],
+            "5": [
+                "J. De La Peña",
+                "1804"
+            ],
+            "6": [
+                "Malanday",
+                "1805"
+            ],
+            "7": [
+                "Northern and Western Marikina River",
+                "1806"
+            ],
+            "8": [
+                "Concepcion Tarlac",
+                "1807"
+            ],
+            "9": [
+                "Nangka",
+                "1808"
+            ],
+            "10": [
+                "Parang",
+                "1809"
+            ],
+            "11": [
+                "Marikina Heights",
+                "1810"
+            ],
+            "12": [
+                "Concepcion 2",
+                "1811"
+            ],
+            "13": [
+                "Bagong Nayon, Cupang, Mambagat, and Mayamot",
+                "1820"
+            ]
+        }
+    },
+    "8": {
+        "l": {
+            "1": [
+                "Muntinlupa Central Post Office",
+                "1770"
+            ],
+            "2": [
+                "Buli/Cupang",
+                "1771"
+            ],
+            "3": [
+                "Bayanan/Putatan",
+                "1772"
+            ],
+            "4": [
+                "Soldiers' Hills",
+                "1772"
+            ],
+            "5": [
+                "Tunasan",
+                "1773"
+            ],
+            "6": [
+                "Susana Heights",
+                "1774"
+            ],
+            "7": [
+                "Pearl Heights",
+                "1775"
+            ],
+            "8": [
+                "Poblacion",
+                "1776"
+            ],
+            "9": [
+                "Pleasant Village",
+                "1777"
+            ],
+            "10": [
+                "Ayala Alabang Subdivision",
+                "1780"
+            ],
+            "11": [
+                "Ayala Alabang P.O. Boxes",
+                "1799"
+            ]
+        }
+    },
+    "9": {
+        "l": {
+            "1": [
+                "Fish Market",
+                "1411"
+            ],
+            "2": [
+                "Isla de Cocomo",
+                "1412"
+            ],
+            "3": [
+                "Kapitbahayan [East]",
+                "1413"
+            ],
+            "4": [
+                "Kaunlaran Village",
+                "1409"
+            ],
+            "5": [
+                "Navotas",
+                "1485"
+            ],
+            "6": [
+                "Tangos",
+                "1489"
+            ],
+            "7": [
+                "Tanza",
+                "1490"
+            ]
+        }
+    },
+    "10": {
+        "l": {
+            "1": [
+                "Aeropark Subdivision",
+                "1714"
+            ],
+            "2": [
+                "Baclaran",
+                "1702"
+            ],
+            "3": [
+                "Better Living Subdivision",
+                "1711"
+            ],
+            "4": [
+                "BF Homes 1",
+                "1720"
+            ],
+            "5": [
+                "BF Homes 2",
+                "1718"
+            ],
+            "6": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1000 to 1099",
+                "1375"
+            ],
+            "7": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1100 to 1199",
+                "1376"
+            ],
+            "8": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1200 to 1299",
+                "1377"
+            ],
+            "9": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1300 to 1399",
+                "1378"
+            ],
+            "10": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1400 to 1499",
+                "1379"
+            ],
+            "11": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1500 to 1599",
+                "1380"
+            ],
+            "12": [
+                "Domestic Airport P.O. - P.O. Box Nos. 1600 to 1699",
+                "1381"
+            ],
+            "13": [
+                "Executive Heights Subdivision",
+                "1710"
+            ],
+            "14": [
+                "Ireneville Subdivision I & III",
+                "1719"
+            ],
+            "15": [
+                "Ireneville Subdivision II",
+                "1714"
+            ],
+            "16": [
+                "Manila Memorial Park",
+                "1717"
+            ],
+            "17": [
+                "Marina Subdivision (Reclamation)",
+                "1703"
+            ],
+            "18": [
+                "Maywood Village I",
+                "1719"
+            ],
+            "19": [
+                "Maywood Village II",
+                "1716"
+            ],
+            "20": [
+                "Miramar Subdivision",
+                "1712"
+            ],
+            "21": [
+                "Multinational Village",
+                "1708"
+            ],
+            "22": [
+                "Ninoy Aquino International Airport",
+                "1705"
+            ],
+            "23": [
+                "Parañaque CPO",
+                "1700"
+            ],
+            "24": [
+                "Pulo",
+                "1706"
+            ],
+            "25": [
+                "San Antonio Valley 1",
+                "1715"
+            ],
+            "26": [
+                "San Antonio Valley 11 & 12",
+                "1707"
+            ],
+            "27": [
+                "Santo Niño",
+                "1704"
+            ],
+            "28": [
+                "South Admiral Village, Merville Park & Moonwalk Subdivision",
+                "1709"
+            ],
+            "29": [
+                "Tambo",
+                "1701"
+            ],
+            "30": [
+                "United Parañaque Subdivision",
+                "1713"
+            ]
+        }
+    },
+    "11": {
+        "l": {
+            "1": [
+                "Pasay City Central Post Office",
+                "1300"
+            ],
+            "2": [
+                "Domestic Airport P.O.",
+                "1301"
+            ],
+            "3": [
+                "San Rafael",
+                "1302"
+            ],
+            "4": [
+                "San Roque",
+                "1303"
+            ],
+            "5": [
+                "Santa Clara",
+                "1304"
+            ],
+            "6": [
+                "San Jose",
+                "1305"
+            ],
+            "7": [
+                "San Isidro",
+                "1306"
+            ],
+            "8": [
+                "Philippine International Convention Center",
+                "1307"
+            ],
+            "9": [
+                "Bay City",
+                "1308"
+            ],
+            "10": [
+                "Villamor Airbase",
+                "1309"
+            ],
+            "11": [
+                "Pasay City CPO - P.O. Box Nos. 1000 to 1099",
+                "1350"
+            ],
+            "12": [
+                "Pasay City CPO - P.O. Box Nos. 1100 to 1199",
+                "1351"
+            ],
+            "13": [
+                "Pasay City CPO - P.O. Box Nos. 1200 to 1299",
+                "1352"
+            ],
+            "14": [
+                "Pasay City CPO - P.O. Box Nos. 1300 to 1399",
+                "1353"
+            ],
+            "15": [
+                "Pasay City CPO - P.O. Box Nos. 1400 to 1499",
+                "1354"
+            ]
+        }
+    },
+    "12": {
+        "l": {
+            "1": [
+                "Pasig Ortigas CTR-PO Box# 1000 to 1099",
+                "1650"
+            ],
+            "2": [
+                "Pasig Ortigas CTR-PO Box# 1100 to 1199",
+                "1651"
+            ],
+            "3": [
+                "Pasig Ortigas CTR-PO Box# 1200 to 1299",
+                "1652"
+            ],
+            "4": [
+                "Pasig Ortigas CTR-PO Box# 1300 to 1399",
+                "1653"
+            ],
+            "5": [
+                "Pasig Ortigas CTR-PO Box# 1400 to 1499",
+                "1654"
+            ],
+            "6": [
+                "Pasig Ortigas CTR-PO Box# 1500 to 1599",
+                "1655"
+            ],
+            "7": [
+                "Pasig Ortigas CTR-PO Box# 1600 to 1699",
+                "1656"
+            ],
+            "8": [
+                "Pasig Ortigas CTR-PO Box# 1700 to 1799",
+                "1657"
+            ],
+            "9": [
+                "Pasig Ortigas CTR-PO Box# 1800 to 1899",
+                "1658"
+            ],
+            "10": [
+                "Pasig Ortigas CTR-PO Box# 1900 to 1999",
+                "1659"
+            ],
+            "11": [
+                "Pasig Ortigas CTR-PO Box# 2000 to 2099",
+                "1660"
+            ],
+            "12": [
+                "Pasig Ortigas CTR-PO Box# 2100 to 2199",
+                "1661"
+            ],
+            "13": [
+                "Pasig Ortigas CTR-PO Box# 2200 to 2299",
+                "1662"
+            ],
+            "14": [
+                "Pasig Ortigas CTR-PO Box# 2300 to 2399",
+                "1663"
+            ],
+            "15": [
+                "Pasig Ortigas CTR-PO Box# 2400 to 2499",
+                "1664"
+            ],
+            "16": [
+                "Pasig Ortigas CTR-PO Box# 2500 to 2599",
+                "1665"
+            ],
+            "17": [
+                "Pasig Ortigas CTR-PO Box# 2600 to 2699",
+                "1666"
+            ],
+            "18": [
+                "Pasig Ortigas CTR-PO Box# 2700 to 2799",
+                "1667"
+            ],
+            "19": [
+                "Pasig Ortigas CTR-PO Box# 2800 to 2899",
+                "1668"
+            ],
+            "20": [
+                "Pasig Ortigas CTR-PO Box# 2900 to 2999",
+                "1669"
+            ],
+            "21": [
+                "Pasig Ortigas CTR-PO Box# 3000 to 3099",
+                "1670"
+            ],
+            "22": [
+                "Pasig Ortigas CTR-PO Box# 3100 to 3199",
+                "1671"
+            ],
+            "23": [
+                "Pasig Ortigas CTR-PO Box# 3200 to 3299",
+                "1672"
+            ],
+            "24": [
+                "Pasig Ortigas CTR-PO Box# 3300 to 3399",
+                "1673"
+            ],
+            "25": [
+                "Pasig Ortigas CTR-PO Box# 3400 to 3499",
+                "1674"
+            ],
+            "26": [
+                "Pasig Ortigas CTR-PO Box# 3500 to 3599",
+                "1675"
+            ],
+            "27": [
+                "Pasig Ortigas CTR-PO Box# 3600 to 3699",
+                "1676"
+            ],
+            "28": [
+                "Pasig Ortigas CTR-PO Box# 3700 to 3799",
+                "1677"
+            ],
+            "29": [
+                "Pasig Ortigas CTR-PO Box# 3800 to 3899",
+                "1678"
+            ],
+            "30": [
+                "Pasig Ortigas CTR-PO Box# 3900 to 3999",
+                "1679"
+            ],
+            "31": [
+                "Pasig Ortigas CTR-PO Box# 4000 to 4099",
+                "1680"
+            ],
+            "32": [
+                "Pasig Ortigas CTR-PO Box# 4100 to 4199",
+                "1681"
+            ],
+            "33": [
+                "Pasig Ortigas CTR-PO Box# 4200 to 4299",
+                "1682"
+            ],
+            "34": [
+                "Pasig Ortigas CTR-PO Box# 4300 to 4399",
+                "1683"
+            ],
+            "35": [
+                "Pasig Ortigas CTR-PO Box# 4400 to 4499",
+                "1684"
+            ],
+            "36": [
+                "Pasig Ortigas CTR-PO Box# 4500 to 4599",
+                "1685"
+            ],
+            "37": [
+                "Pasig Ortigas CTR-PO Box# 4600 to 4699",
+                "1686"
+            ],
+            "38": [
+                "Pasig Ortigas CTR-PO Box# 4700 to 4799",
+                "1687"
+            ],
+            "39": [
+                "Pasig Ortigas CTR-PO Box# 4800 to 4899",
+                "1688"
+            ],
+            "40": [
+                "Pasig Ortigas CTR-PO Box# 4900 to 4999",
+                "1689"
+            ],
+            "41": [
+                "Pasig Ortigas CTR-PO Box# 5000 to 5099",
+                "1690"
+            ],
+            "42": [
+                "Pasig Ortigas CTR-PO Box# 5100 to 5199",
+                "1691"
+            ],
+            "43": [
+                "Pasig Ortigas CTR-PO Box# 5200 to 5299",
+                "1692"
+            ],
+            "44": [
+                "Pasig Ortigas CTR-PO Box# 5300 to 5399",
+                "1693"
+            ],
+            "45": [
+                "Pasig Ortigas CTR-PO Box# 5400 to 5499",
+                "1694"
+            ],
+            "46": [
+                "Pasig Ortigas CTR-PO Box# 5500 to 5599",
+                "1695"
+            ],
+            "47": [
+                "Pasig Ortigas CTR-PO Box# 5600 to 5699",
+                "1696"
+            ],
+            "48": [
+                "Pasig Ortigas CTR-PO Box# 5700 to 5799",
+                "1697"
+            ],
+            "49": [
+                "Pasig Ortigas CTR-PO Box# 5800 to 5899",
+                "1698"
+            ],
+            "50": [
+                "Pasig Ortigas CTR-PO Box# 5900 to 5999",
+                "1699"
+            ]
+        }
+    },
+    "13": {
+        "l": {
+            "1": [
+                "Aguho",
+                "1620"
+            ],
+            "2": [
+                "Santa Ana",
+                "1621"
+            ]
+        }
+    },
+    "14": {
+        "l": {
+            "1": [
+                "Alicia",
+                "1105"
+            ],
+            "2": [
+                "Amihan",
+                "1102"
+            ],
+            "3": [
+                "Apolonio Samson",
+                "1106"
+            ],
+            "4": [
+                "Araneta Center",
+                "0810"
+            ],
+            "5": [
+                "Araneta Center P.O. Boxes",
+                "1135"
+            ],
+            "6": [
+                "Baesa",
+                "1106"
+            ],
+            "7": [
+                "Bagbag",
+                "1116"
+            ],
+            "8": [
+                "Bagong Bayan",
+                "1110"
+            ],
+            "9": [
+                "Bagong Buhay",
+                "1109"
+            ],
+            "10": [
+                "Bagong Lipunan",
+                "1111"
+            ],
+            "11": [
+                "Bagong Pag-Asa",
+                "1105"
+            ],
+            "12": [
+                "Bagong Silangan",
+                "1119"
+            ],
+            "13": [
+                "Bahay Toro",
+                "1106"
+            ],
+            "14": [
+                "Balingasa",
+                "1115"
+            ],
+            "15": [
+                "Balintawak",
+                "1106"
+            ],
+            "16": [
+                "Balumbato",
+                "1106"
+            ],
+            "17": [
+                "Batasan Hills",
+                "1126"
+            ],
+            "18": [
+                "Bayanihan",
+                "1109"
+            ],
+            "19": [
+                "BF Homes",
+                "1120"
+            ],
+            "20": [
+                "Blue Ridge",
+                "1109"
+            ],
+            "21": [
+                "Botocan",
+                "1101"
+            ],
+            "22": [
+                "Broadway Center P.O. Boxes",
+                "1141"
+            ],
+            "23": [
+                "Bungad",
+                "1105"
+            ],
+            "24": [
+                "Bureau of Internal Revenue",
+                "0820"
+            ],
+            "25": [
+                "Camp Aguinaldo",
+                "1110"
+            ],
+            "26": [
+                "Camp Aguinaldo",
+                "0802"
+            ],
+            "27": [
+                "Camp Crame",
+                "0801"
+            ],
+            "28": [
+                "Capitol Hills/Park",
+                "1126"
+            ],
+            "29": [
+                "Capri",
+                "1117"
+            ],
+            "30": [
+                "Central",
+                "1100"
+            ],
+            "31": [
+                "Claro",
+                "1102"
+            ],
+            "32": [
+                "Commission on Audit",
+                "0880"
+            ],
+            "33": [
+                "Commonwealth",
+                "1121"
+            ],
+            "34": [
+                "Crame",
+                "1111"
+            ],
+            "35": [
+                "Cubao",
+                "1109"
+            ],
+            "36": [
+                "Culiat",
+                "1128"
+            ],
+            "37": [
+                "Damar",
+                "1115"
+            ],
+            "38": [
+                "Damayan",
+                "1104"
+            ],
+            "39": [
+                "Damayan Lagi",
+                "1112"
+            ],
+            "40": [
+                "Damong Maliit",
+                "1123"
+            ],
+            "41": [
+                "Del Monte",
+                "1105"
+            ],
+            "42": [
+                "Diliman",
+                "1104"
+            ],
+            "43": [
+                "Dioquino Zobel",
+                "1109"
+            ],
+            "44": [
+                "Don Manuel",
+                "1113"
+            ],
+            "45": [
+                "Doña Aurora",
+                "1113"
+            ],
+            "46": [
+                "Doña Faustina Subdivision",
+                "1125"
+            ],
+            "47": [
+                "Doña Imelda",
+                "1113"
+            ],
+            "48": [
+                "Doña Josefa",
+                "1113"
+            ],
+            "49": [
+                "Duyan-Duyan",
+                "1102"
+            ],
+            "50": [
+                "E. Rodriguez",
+                "1102"
+            ],
+            "51": [
+                "Escopa",
+                "1109"
+            ],
+            "52": [
+                "Fairview",
+                "1118"
+            ],
+            "53": [
+                "Fairview [North]",
+                "1121"
+            ],
+            "54": [
+                "Fairview [South]",
+                "1122"
+            ],
+            "55": [
+                "Gintong Silahis",
+                "1114"
+            ],
+            "56": [
+                "Gulod",
+                "1117"
+            ],
+            "57": [
+                "Holy Spirit",
+                "1127"
+            ],
+            "58": [
+                "Horseshoe",
+                "1112"
+            ],
+            "59": [
+                "Immaculate Concepcion",
+                "1111"
+            ],
+            "60": [
+                "Kaligayahan",
+                "1124"
+            ],
+            "61": [
+                "Kalusugan",
+                "1112"
+            ],
+            "62": [
+                "Kamias",
+                "1102"
+            ],
+            "63": [
+                "Kamuning quezon city",
+                "1103"
+            ],
+            "64": [
+                "Katipunan",
+                "1105"
+            ],
+            "65": [
+                "Kaunlaran",
+                "1111"
+            ],
+            "66": [
+                "Kristong Hari",
+                "1112"
+            ],
+            "67": [
+                "Krus na Ligas quezon city",
+                "1101"
+            ],
+            "68": [
+                "La Loma",
+                "1114"
+            ],
+            "69": [
+                "Laging Handa quezon city",
+                "1103"
+            ],
+            "70": [
+                "Libis",
+                "1110"
+            ],
+            "71": [
+                "Lourdes",
+                "1114"
+            ],
+            "72": [
+                "Loyola Heights",
+                "1108"
+            ],
+            "73": [
+                "Maharlika",
+                "1114"
+            ],
+            "74": [
+                "Malaya",
+                "1101"
+            ],
+            "75": [
+                "Mangga",
+                "1109"
+            ],
+            "76": [
+                "Manresa",
+                "1115"
+            ],
+            "77": [
+                "Mariana",
+                "1112"
+            ],
+            "78": [
+                "Mariblo",
+                "1104"
+            ],
+            "79": [
+                "Marilag",
+                "1109"
+            ],
+            "80": [
+                "Masagana",
+                "1109"
+            ],
+            "81": [
+                "Masambong",
+                "1115"
+            ],
+            "82": [
+                "Matalahib",
+                "1114"
+            ],
+            "83": [
+                "Matandang Balara",
+                "1119"
+            ],
+            "84": [
+                "Milagrosa",
+                "1109"
+            ],
+            "85": [
+                "Murphy District P.O. Boxes",
+                "1138"
+            ],
+            "86": [
+                "Nagkaisang Nayon",
+                "1125"
+            ],
+            "87": [
+                "National Irrigation Administration",
+                "0830"
+            ],
+            "88": [
+                "Nayon Kaunlaran",
+                "1104"
+            ],
+            "89": [
+                "New Era",
+                "1107"
+            ],
+            "90": [
+                "Novaliches P.O. Boxes",
+                "1147"
+            ],
+            "91": [
+                "Novaliches Proper",
+                "1123"
+            ],
+            "92": [
+                "Obrero",
+                "1103"
+            ],
+            "93": [
+                "Old Capitol Site",
+                "1101"
+            ],
+            "94": [
+                "Paang Bundok",
+                "1114"
+            ],
+            "95": [
+                "Pag-Ibig sa Nayon",
+                "1115"
+            ],
+            "96": [
+                "Paligsahan",
+                "1103"
+            ],
+            "97": [
+                "Paltok",
+                "1105"
+            ],
+            "98": [
+                "Pansol",
+                "1108"
+            ],
+            "99": [
+                "Paraiso",
+                "1104"
+            ],
+            "100": [
+                "Pasong Putik quezon city",
+                "1118"
+            ],
+            "101": [
+                "Pasong Tamo",
+                "1107"
+            ],
+            "102": [
+                "Payatas",
+                "1119"
+            ],
+            "103": [
+                "Phil-Am",
+                "1104"
+            ],
+            "104": [
+                "Philippine Heart Center",
+                "0850"
+            ],
+            "105": [
+                "Pinagkaisahan",
+                "1111"
+            ],
+            "106": [
+                "Piñahan",
+                "1100"
+            ],
+            "107": [
+                "Project 4",
+                "1109"
+            ],
+            "108": [
+                "Project 6",
+                "1100"
+            ],
+            "109": [
+                "Project 7",
+                "1105"
+            ],
+            "110": [
+                "Project 8",
+                "1106"
+            ],
+            "111": [
+                "Quezon City CPO",
+                "1100"
+            ],
+            "112": [
+                "Quezon City CPO - P.O. Box Nos. 1000 to 1099",
+                "1150"
+            ],
+            "113": [
+                "Quezon City CPO - P.O. Box Nos. 1100 to 1199",
+                "1151"
+            ],
+            "114": [
+                "Quezon City CPO - P.O. Box Nos. 1200 to 1299",
+                "1152"
+            ],
+            "115": [
+                "Quezon City CPO - P.O. Box Nos. 1300 to 1399",
+                "1153"
+            ],
+            "116": [
+                "Quezon City CPO - P.O. Box Nos. 1400 to 1499",
+                "1154"
+            ],
+            "117": [
+                "Quezon City CPO - P.O. Box Nos. 1500 to 1599",
+                "1155"
+            ],
+            "118": [
+                "Quezon City CPO - P.O. Box Nos. 1600 to 1699",
+                "1156"
+            ],
+            "119": [
+                "Quezon City CPO - P.O. Box Nos. 1700 to 1799",
+                "1157"
+            ],
+            "120": [
+                "Quezon City CPO - P.O. Box Nos. 1800 to 1899",
+                "1158"
+            ],
+            "121": [
+                "Quezon City CPO - P.O. Box Nos. 1900 to 1999",
+                "1159"
+            ],
+            "122": [
+                "Quezon City CPO - P.O. Box Nos. 2000 to 2099",
+                "1160"
+            ],
+            "123": [
+                "Quezon City CPO - P.O. Box Nos. 2100 to 2199",
+                "1161"
+            ],
+            "124": [
+                "Quezon City CPO - P.O. Box Nos. 2200 to 2299",
+                "1162"
+            ],
+            "125": [
+                "Quezon City CPO - P.O. Box Nos. 2300 to 2399",
+                "1163"
+            ],
+            "126": [
+                "Quezon City CPO - P.O. Box Nos. 2400 to 2499",
+                "1164"
+            ],
+            "127": [
+                "Quezon City CPO - P.O. Box Nos. 2500 to 2599",
+                "1165"
+            ],
+            "128": [
+                "Quezon City CPO - P.O. Box Nos. 2600 to 2699",
+                "1166"
+            ],
+            "129": [
+                "Quezon City CPO - P.O. Box Nos. 2700 to 2799",
+                "1167"
+            ],
+            "130": [
+                "Quezon City CPO - P.O. Box Nos. 2800 to 2899",
+                "1168"
+            ],
+            "131": [
+                "Quezon City CPO - P.O. Box Nos. 2900 to 2999",
+                "1169"
+            ],
+            "132": [
+                "Quezon City CPO - P.O. Box Nos. 3000 to 3099",
+                "1170"
+            ],
+            "133": [
+                "Quezon City CPO - P.O. Box Nos. 3100 to 3199",
+                "1171"
+            ],
+            "134": [
+                "Quezon City CPO - P.O. Box Nos. 3200 to 3299",
+                "1172"
+            ],
+            "135": [
+                "Quezon City CPO - P.O. Box Nos. 3300 to 3399",
+                "1173"
+            ],
+            "136": [
+                "Quezon City CPO - P.O. Box Nos. 3400 to 3499",
+                "1174"
+            ],
+            "137": [
+                "Quezon City CPO - P.O. Box Nos. 3500 to 3599",
+                "1175"
+            ],
+            "138": [
+                "Quezon City CPO - P.O. Box Nos. 3600 to 3699",
+                "1176"
+            ],
+            "139": [
+                "Quezon City CPO - P.O. Box Nos. 3700 to 3799",
+                "1177"
+            ],
+            "140": [
+                "Quezon City Hall",
+                "0860"
+            ],
+            "141": [
+                "Quirino District (Project 2 & 3)",
+                "1102"
+            ],
+            "142": [
+                "R. Magsaysay",
+                "1105"
+            ],
+            "143": [
+                "Roxas District",
+                "1103"
+            ],
+            "144": [
+                "Sacred Heart",
+                "1103"
+            ],
+            "145": [
+                "Salvacion",
+                "1114"
+            ],
+            "146": [
+                "San Agustin",
+                "1117"
+            ],
+            "147": [
+                "San Antonio, Quezon City",
+                "1105"
+            ],
+            "148": [
+                "San Bartolome",
+                "1116"
+            ],
+            "149": [
+                "San Isidro",
+                "1113"
+            ],
+            "150": [
+                "San Isidro Labrador",
+                "1114"
+            ],
+            "151": [
+                "San Jose",
+                "1115"
+            ],
+            "152": [
+                "San Roque",
+                "1109"
+            ],
+            "153": [
+                "San Vicente",
+                "1101"
+            ],
+            "154": [
+                "Sangandaan",
+                "1116"
+            ],
+            "155": [
+                "Santa Cruz",
+                "1104"
+            ],
+            "156": [
+                "Santa Lucia",
+                "1117"
+            ],
+            "157": [
+                "Santa Monica",
+                "1117"
+            ],
+            "158": [
+                "Santa Teresita",
+                "1114"
+            ],
+            "159": [
+                "Santo Cristo",
+                "1105"
+            ],
+            "160": [
+                "Santo Niño",
+                "1113"
+            ],
+            "161": [
+                "Santol",
+                "1113"
+            ],
+            "162": [
+                "Sauyo",
+                "1116"
+            ],
+            "163": [
+                "Sienna",
+                "1114"
+            ],
+            "164": [
+                "Sikatuna Village",
+                "1101"
+            ],
+            "165": [
+                "Silangan",
+                "1102"
+            ],
+            "166": [
+                "Social Security System",
+                "0800"
+            ],
+            "167": [
+                "Socorro",
+                "1109"
+            ],
+            "168": [
+                "South Triangle",
+                "1103"
+            ],
+            "169": [
+                "St. Ignatius Quezon city",
+                "1110"
+            ],
+            "170": [
+                "St. Martin de Porres",
+                "1111"
+            ],
+            "171": [
+                "St. Peter",
+                "1114"
+            ],
+            "172": [
+                "Tagumpay",
+                "1109"
+            ],
+            "173": [
+                "Talampas",
+                "1110"
+            ],
+            "174": [
+                "Talayan",
+                "1104"
+            ],
+            "175": [
+                "Talipapa",
+                "1116"
+            ],
+            "176": [
+                "Tandang Sora",
+                "1116"
+            ],
+            "177": [
+                "Tatalon",
+                "1113"
+            ],
+            "178": [
+                "Teachers Village",
+                "1101"
+            ],
+            "179": [
+                "Ugong Norte",
+                "1110"
+            ],
+            "180": [
+                "Unang Sigaw Quezon City",
+                "1106"
+            ],
+            "181": [
+                "University of the Philippines Post Office",
+                "1101"
+            ],
+            "182": [
+                "University of the Philippines P.O. Boxes",
+                "1144"
+            ],
+            "183": [
+                "University of the Philippines Village",
+                "1101"
+            ],
+            "184": [
+                "V. Luna Hospital",
+                "0840"
+            ],
+            "185": [
+                "Valencia",
+                "1112"
+            ],
+            "186": [
+                "Vasra",
+                "1128"
+            ],
+            "187": [
+                "Veterans Hospital",
+                "0870"
+            ],
+            "188": [
+                "Veterans Village",
+                "1105"
+            ],
+            "189": [
+                "Villa Maria Clara",
+                "1109"
+            ],
+            "190": [
+                "Violago Homes",
+                "1120"
+            ],
+            "191": [
+                "West Triangle quezon city",
+                "1104"
+            ],
+            "192": [
+                "White Plains",
+                "1110"
+            ]
+        }
+    },
+    "15": {
+        "l": {
+            "1": [
+                "Eisenhower - Crame San Juan",
+                "1504"
+            ],
+            "2": [
+                "Greenhills Post Office",
+                "1502"
+            ],
+            "3": [
+                "Greenhills SAn Juan [North]",
+                "1503"
+            ],
+            "4": [
+                "San Juan Central Post Office",
+                "1500"
+            ]
+        },
+        "b": {
+            "1": [
+                "International Correspondence School",
+                "0400"
+            ],
+            "2": [
+                "Asian Development Bank",
+                "0401"
+            ],
+            "3": [
+                "Radio Bible Class San Juan",
+                "0410"
+            ],
+            "4": [
+                "Bible School on the Air",
+                "0420"
+            ]
+        },
+        "p": {
+            "1": [
+                "Greenhills P.O. Box Nos. 1000 to 1099",
+                "1530"
+            ],
+            "2": [
+                "Greenhills P.O. Box Nos. 1100 to 1199",
+                "1531"
+            ],
+            "3": [
+                "Greenhills P.O. Box Nos. 1200 to 1299",
+                "1532"
+            ],
+            "4": [
+                "Greenhills P.O. Box Nos. 1300 to 1399",
+                "1533"
+            ],
+            "5": [
+                "Greenhills P.O. Box Nos. 1400 to 1499",
+                "1534"
+            ],
+            "6": [
+                "Greenhills P.O. Box Nos. 1500 to 1599",
+                "1535"
+            ],
+            "7": [
+                "Greenhills P.O. Box Nos. 1600 to 1699",
+                "1536"
+            ]
+        }
+    },
+    "16": {
+        "l": {
+            "1": [
+                "Bay Breeze Executive Village",
+                "1636"
+            ],
+            "2": [
+                "Bicutan",
+                "1631"
+            ],
+            "3": [
+                "Ususan",
+                "1632"
+            ],
+            "4": [
+                "Upper Bicutan",
+                "1633"
+            ],
+            "5": [
+                "Western Bicutan",
+                "1630"
+            ],
+            "6": [
+                "Ligid",
+                "1638"
+            ],
+            "7": [
+                "Nichols - McKinley",
+                "1634"
+            ],
+            "8": [
+                "Tuktukan",
+                "1637"
+            ]
+        }
+    },
+    "17": {
+        "l": {
+            "1": [
+                "Arkong Bato",
+                "1444"
+            ],
+            "2": [
+                "Balangkas - Caloong",
+                "1445"
+            ],
+            "3": [
+                "Dalandanan - West Canumay",
+                "1443"
+            ],
+            "4": [
+                "East Canumay - Lawang Bato Punturin",
+                "1447"
+            ],
+            "5": [
+                "Fortune Village",
+                "1442"
+            ],
+            "6": [
+                "General T. de Leon",
+                "1442"
+            ],
+            "7": [
+                "Karuhatan",
+                "1441"
+            ],
+            "8": [
+                "Lingunan",
+                "1446"
+            ],
+            "9": [
+                "Mabolo",
+                "1444"
+            ],
+            "10": [
+                "Malanday",
+                "1444"
+            ],
+            "11": [
+                "Mapulang Lupa",
+                "1448"
+            ],
+            "12": [
+                "Paso de Blas",
+                "1442"
+            ],
+            "13": [
+                "Pasolo",
+                "1444"
+            ],
+            "14": [
+                "Polo",
+                "1444"
+            ],
+            "15": [
+                "Rincon",
+                "1444"
+            ],
+            "16": [
+                "Valenzuela Central Post Office - Malinta",
+                "1440"
+            ],
+            "17": [
+                "Valenzuela P.O. Boxes",
+                "1469"
+            ]
+        },
+        "b": {
+            "1": [
+                "Far East Broadcasting Corporation",
+                "0560"
+            ],
+            "2": [
+                "Febias College of Bible",
+                "0550"
+            ]
+        }
+    }
+}
