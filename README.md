@@ -22,7 +22,7 @@ console.log(found);
 
 ### CDN
 ```html
-<script src="https://www.kulotsystems.tech/cdn/phzips-2.0.1.min.js"></script>
+<script src="https://www.kulotsystems.tech/cdn/phzips-2.0.2.min.js"></script>
 <script>
     const found = phzips.search('4434');
 
