@@ -4110,94 +4110,76 @@
   "45": {
     "l": {
       "1": [
-        "Anahawan",
-        "6610",
-        "Southern Leyte"
+        "Abuyog",
+        "6510"
       ],
       "2": [
-        "Bomtoc",
-        "6604",
-        "Southern Leyte"
+        "Alangalang",
+        "6517"
       ],
       "3": [
-        "Hinunangan",
-        "6608",
-        "Southern Leyte"
+        "Albuera",
+        "6542"
       ],
       "4": [
-        "Hinundayan",
-        "6609",
-        "Southern Leyte"
+        "Babatngon",
+        "6520"
       ],
       "5": [
-        "Libagon",
-        "6615",
-        "Southern Leyte"
+        "Barugo",
+        "6519"
       ],
       "6": [
-        "Liloan",
-        "6612",
-        "Southern Leyte"
+        "Bato",
+        "6525"
       ],
       "7": [
-        "Maasin",
-        "6600",
-        "Southern Leyte"
+        "Baybay",
+        "6521"
       ],
       "8": [
-        "Macrohon",
-        "6601",
-        "Southern Leyte"
+        "Burauen",
+        "6516"
       ],
       "9": [
-        "Malitbog",
-        "6603",
-        "Southern Leyte"
+        "Calubian",
+        "6534"
       ],
       "10": [
-        "Padre Burgos",
-        "6602",
-        "Southern Leyte"
+        "Capoocan",
+        "6530"
       ],
       "11": [
-        "Pintuyan",
-        "6614",
-        "Southern Leyte"
+        "Carigara",
+        "6529"
       ],
       "12": [
-        "San Francisco",
-        "6613",
-        "Southern Leyte"
+        "Dagami",
+        "6515"
       ],
       "13": [
-        "San Juan (Cabalian)",
-        "6611",
-        "Southern Leyte"
+        "Dulag",
+        "6505"
       ],
       "14": [
-        "San Ricardo",
-        "6617",
-        "Southern Leyte"
+        "Hilongos",
+        "6524"
       ],
       "15": [
-        "Silago",
-        "6607",
-        "Southern Leyte"
+        "Hindang",
+        "6523"
       ],
       "16": [
-        "Sogod",
-        "6606",
-        "Southern Leyte"
+        "Inopacan",
+        "6522"
       ],
       "17": [
-        "St. Bernard",
-        "6616",
-        "Southern Leyte"
+        "Isabel",
+        "6539"
       ],
       "18": [
-        "Tomas Oppus",
-        "6605",
-        "Southern Leyte"
+        "Jaro",
+        "6527"
       ],
       "19": [
         "Javier",
@@ -4298,6 +4280,96 @@
       "43": [
         "Villaba",
         "6537"
+      ],
+      "44": [
+        "Anahawan",
+        "6610",
+        "Southern Leyte"
+      ],
+      "45": [
+        "Bomtoc",
+        "6604",
+        "Southern Leyte"
+      ],
+      "46": [
+        "Hinunangan",
+        "6608",
+        "Southern Leyte"
+      ],
+      "47": [
+        "Hinundayan",
+        "6609",
+        "Southern Leyte"
+      ],
+      "48": [
+        "Libagon",
+        "6615",
+        "Southern Leyte"
+      ],
+      "49": [
+        "Liloan",
+        "6612",
+        "Southern Leyte"
+      ],
+      "50": [
+        "Maasin",
+        "6600",
+        "Southern Leyte"
+      ],
+      "51": [
+        "Macrohon",
+        "6601",
+        "Southern Leyte"
+      ],
+      "52": [
+        "Malitbog",
+        "6603",
+        "Southern Leyte"
+      ],
+      "53": [
+        "Padre Burgos",
+        "6602",
+        "Southern Leyte"
+      ],
+      "54": [
+        "Pintuyan",
+        "6614",
+        "Southern Leyte"
+      ],
+      "55": [
+        "San Francisco",
+        "6613",
+        "Southern Leyte"
+      ],
+      "56": [
+        "San Juan (Cabalian)",
+        "6611",
+        "Southern Leyte"
+      ],
+      "57": [
+        "San Ricardo",
+        "6617",
+        "Southern Leyte"
+      ],
+      "58": [
+        "Silago",
+        "6607",
+        "Southern Leyte"
+      ],
+      "59": [
+        "Sogod",
+        "6606",
+        "Southern Leyte"
+      ],
+      "60": [
+        "St. Bernard",
+        "6616",
+        "Southern Leyte"
+      ],
+      "61": [
+        "Tomas Oppus",
+        "6605",
+        "Southern Leyte"
       ]
     }
   },
@@ -4396,7 +4468,7 @@
   "47": {
     "l": {
       "1": [
-        "Bacolod City negros occidental",
+        "Bacolod City",
         "6100"
       ],
       "2": [
@@ -4708,131 +4780,366 @@
   "50": {
     "l": {
       "1": [
+        "Arteche",
+        "6822",
+        "Eastern Samar"
+      ],
+      "2": [
+        "Balangiga",
+        "6812",
+        "Eastern Samar"
+      ],
+      "3": [
+        "Balangkayan",
+        "6801",
+        "Eastern Samar"
+      ],
+      "4": [
+        "Borongan",
+        "6800",
+        "Eastern Samar"
+      ],
+      "5": [
+        "Can-Avid",
+        "6806",
+        "Eastern Samar"
+      ],
+      "6": [
+        "Dolores",
+        "6817",
+        "Eastern Samar"
+      ],
+      "7": [
+        "Gen. McArthur",
+        "6805",
+        "Eastern Samar"
+      ],
+      "8": [
+        "Giporlos",
+        "6811",
+        "Eastern Samar"
+      ],
+      "9": [
+        "Guiuan",
+        "6809",
+        "Eastern Samar"
+      ],
+      "10": [
+        "Hernani",
+        "6804",
+        "Eastern Samar"
+      ],
+      "11": [
+        "Jipapad",
+        "6819",
+        "Eastern Samar"
+      ],
+      "12": [
+        "Lawa-an",
+        "6813",
+        "Eastern Samar"
+      ],
+      "13": [
+        "Llorente",
+        "6803",
+        "Eastern Samar"
+      ],
+      "14": [
+        "Maslog",
+        "6820",
+        "Eastern Samar"
+      ],
+      "15": [
+        "Maydulog",
+        "6802",
+        "Eastern Samar"
+      ],
+      "16": [
+        "Mercedes",
+        "6808",
+        "Eastern Samar"
+      ],
+      "17": [
+        "Oras",
+        "6818",
+        "Eastern Samar"
+      ],
+      "18": [
+        "Quinapundan",
+        "6810",
+        "Eastern Samar"
+      ],
+      "19": [
+        "Salcedo",
+        "6807",
+        "Eastern Samar"
+      ],
+      "20": [
+        "San Julian",
+        "6814",
+        "Eastern Samar"
+      ],
+      "21": [
+        "San Policarpio",
+        "6821",
+        "Eastern Samar"
+      ],
+      "22": [
+        "Sulat",
+        "6815",
+        "Eastern Samar"
+      ],
+      "23": [
+        "Taft",
+        "6816",
+        "Eastern Samar"
+      ],
+      "24": [
+        "Allen",
+        "6405",
+        "Northern Samar"
+      ],
+      "25": [
+        "Biri",
+        "6410",
+        "Northern Samar"
+      ],
+      "26": [
+        "Bobon",
+        "6401",
+        "Northern Samar"
+      ],
+      "27": [
+        "Capul",
+        "6408",
+        "Northern Samar"
+      ],
+      "28": [
+        "Catarman",
+        "6400",
+        "Northern Samar"
+      ],
+      "29": [
+        "Catubig",
+        "6418",
+        "Northern Samar"
+      ],
+      "30": [
+        "Gamay",
+        "6422",
+        "Northern Samar"
+      ],
+      "31": [
+        "La Navas",
+        "6420",
+        "Northern Samar"
+      ],
+      "32": [
+        "Laoang",
+        "6411",
+        "Northern Samar"
+      ],
+      "33": [
+        "Lapineg",
+        "6423",
+        "Northern Samar"
+      ],
+      "34": [
+        "Lavezares",
+        "6404",
+        "Northern Samar"
+      ],
+      "35": [
+        "Lope de Vega",
+        "6403",
+        "Northern Samar"
+      ],
+      "36": [
+        "Mapanas",
+        "6412",
+        "Northern Samar"
+      ],
+      "37": [
+        "Mondragon",
+        "6417",
+        "Northern Samar"
+      ],
+      "38": [
+        "Palapag",
+        "6421",
+        "Northern Samar"
+      ],
+      "39": [
+        "Pambujan",
+        "6413",
+        "Northern Samar"
+      ],
+      "40": [
+        "Rosario",
+        "6416",
+        "Northern Samar"
+      ],
+      "41": [
+        "San Antonio",
+        "6407",
+        "Northern Samar"
+      ],
+      "42": [
+        "San Isidro",
+        "6409",
+        "Northern Samar"
+      ],
+      "43": [
+        "San Jose",
+        "6402",
+        "Northern Samar"
+      ],
+      "44": [
+        "San Roque",
+        "6415",
+        "Northern Samar"
+      ],
+      "45": [
+        "San Vicente",
+        "6419",
+        "Northern Samar"
+      ],
+      "46": [
+        "Silvino Lubos",
+        "6414",
+        "Northern Samar"
+      ],
+      "47": [
+        "Victoria",
+        "6406",
+        "Northern Samar"
+      ],
+      "48": [
         "Almagro",
         "6724",
         "Western Samar"
       ],
-      "2": [
+      "49": [
         "Basey",
         "6720",
         "Western Samar"
       ],
-      "3": [
+      "50": [
         "Calbayog City",
         "6710",
         "Western Samar"
       ],
-      "4": [
+      "51": [
         "Calbiga",
         "6715",
         "Western Samar"
       ],
-      "5": [
+      "52": [
         "Catbalogan",
         "6700",
         "Western Samar"
       ],
-      "6": [
+      "53": [
         "Daram",
         "6722",
         "Western Samar"
       ],
-      "7": [
+      "54": [
         "Gandara",
         "6706",
         "Western Samar"
       ],
-      "8": [
+      "55": [
         "Hinbangan",
         "6713",
         "Western Samar"
       ],
-      "9": [
+      "56": [
         "Jiabong",
         "6701",
         "Western Samar"
       ],
-      "10": [
+      "57": [
         "Marabut",
         "6721",
         "Western Samar"
       ],
-      "11": [
+      "58": [
         "Matuguinao",
         "6708",
         "Western Samar"
       ],
-      "12": [
+      "59": [
         "Motiong",
         "6702",
         "Western Samar"
       ],
-      "13": [
+      "60": [
         "Pagsanjan",
         "6705",
         "Western Samar"
       ],
-      "14": [
+      "61": [
         "Pinabacdao",
         "6716",
         "Western Samar"
       ],
-      "15": [
+      "62": [
         "San Jorge",
         "6707",
         "Western Samar"
       ],
-      "16": [
+      "63": [
         "San Jose de Bauan",
         "6723",
         "Western Samar"
       ],
-      "17": [
+      "64": [
         "San Sebastian",
         "6714",
         "Western Samar"
       ],
-      "18": [
+      "65": [
         "Sta. Margarita",
         "6709",
         "Western Samar"
       ],
-      "19": [
+      "66": [
         "Sta. Rita",
         "6718",
         "Western Samar"
       ],
-      "20": [
+      "67": [
         "Sto. Nino",
         "6711",
         "Western Samar"
       ],
-      "21": [
+      "68": [
         "Tagapulan",
         "6712",
         "Western Samar"
       ],
-      "22": [
+      "69": [
         "Talarora",
         "6719",
         "Western Samar"
       ],
-      "23": [
+      "70": [
         "Tarangnan",
         "6704",
         "Western Samar"
       ],
-      "24": [
+      "71": [
         "Villareal",
         "6717",
         "Western Samar"
       ],
-      "25": [
+      "72": [
         "Wright",
         "6703",
         "Western Samar"
       ],
-      "26": [
+      "73": [
         "Zumarraga",
         "6725",
         "Western Samar"
@@ -6326,7 +6633,7 @@
         "8308"
       ],
       "18": [
-        "TagoSurigao Del Sur",
+        "Tago",
         "8302"
       ],
       "19": [
@@ -6502,7 +6809,7 @@
         "7030"
       ],
       "5": [
-        "Don Mariano Marcos",
+        "Don Mariano Marcos Zamboanga Del Sur",
         "7022"
       ],
       "6": [
