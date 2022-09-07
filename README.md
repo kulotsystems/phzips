@@ -22,9 +22,9 @@ console.log(found);
 
 ### CDN
 ```html
-<script src="https://www.kulotsystems.tech/cdn/phzips-2.0.0.min.js"></script>
+<script src="https://www.kulotsystems.tech/cdn/phzips-2.0.1.min.js"></script>
 <script>
-    const found = phzips.default.search('4434');
+    const found = phzips.search('4434');
 
     console.log(found);
     // { type: "Province", area: "Camarines Sur", location: "Nabua", zipCode: "4434", tag: null }
